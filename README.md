@@ -1,2 +1,2 @@
 # Shortest-path
-Find shortest path from A to B in given graph
+Find all paths from A to B in given graph
